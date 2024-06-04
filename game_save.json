@@ -1,0 +1,12 @@
+{
+    "game_state": 3,
+    "health": 2,
+    "honorGained": 0,
+    "interactable": true,
+    "isFalling": false,
+    "isJumping": false,
+    "position.x": 100.0,
+    "position.y": 800.0,
+    "shield": 0,
+    "touchingWall": false
+}
